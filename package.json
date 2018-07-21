@@ -1,0 +1,19 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "Working with Jest & CircleCi",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "circleci",
+    "jest"
+  ],
+  "author": "Vidit Agarwal",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
